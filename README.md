@@ -20,6 +20,14 @@ Berikut adalah demonstrasi bagaimana skrip akan terus melakukan pengecekan secar
 
 ![Demonstrasi Looping](https://github.com/zazisaputra/sistem_monitoring_koneksi_internet/blob/main/img/Looping.png)
 
+
+## Tampilan Aplikasi 📸
+
+Berikut adalah contoh notifikasi yang akan muncul di desktop Anda.
+
+**Dan saat koneksi kembali normal:**
+![Notifikasi Koneksi Kembali Normal](https://github.com/zazisaputra/sistem_monitoring_koneksi_internet/blob/main/img/Kembali%20Normal.png)
+
 ## Cara Penggunaan 🚀
 1.  Pastikan Anda memiliki Python terinstal.
 2.  Jalankan file utama:
