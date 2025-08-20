@@ -12,7 +12,7 @@ Sebuah skrip Python sederhana untuk memantau koneksi internet secara real-time d
 
 Berikut adalah contoh notifikasi yang akan muncul saat koneksi internet terputus:
 
-![Notifikasi Koneksi Terputus](https://github.com/zaziasaputra/sistem_monitoring_koneksi_internet/blob/main/img/Gambar%202.png?raw=true)
+![Notifikasi Koneksi Terputus](https://github.com/zazisaputra/sistem_monitoring_koneksi_internet/blob/main/img/Gambar%202.png)
 
 ## Cara Penggunaan 🚀
 1.  Pastikan Anda memiliki Python terinstal.
