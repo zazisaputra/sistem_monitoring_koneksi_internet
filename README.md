@@ -14,6 +14,12 @@ Berikut adalah contoh notifikasi yang akan muncul saat koneksi internet terputus
 
 ![Notifikasi Koneksi Terputus](https://github.com/zazisaputra/sistem_monitoring_koneksi_internet/blob/main/img/Gambar%202.png)
 
+## Demonstrasi Looping 🔄
+
+Berikut adalah demonstrasi bagaimana skrip akan terus melakukan pengecekan secara berkala ketika koneksi internet terdeteksi terputus, hingga koneksi kembali normal.
+
+![Demonstrasi Looping](https://github.com/zazisaputra/sistem_monitoring_koneksi_internet/blob/main/img/Looping.png)
+
 ## Cara Penggunaan 🚀
 1.  Pastikan Anda memiliki Python terinstal.
 2.  Jalankan file utama:
